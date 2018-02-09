@@ -9,7 +9,7 @@ multi8x1::multi8x1(sc_module_name nm) :a0("A0"), a1("A1"), a2("A2"), a3("A3"), a
 
 	n2.X(s2);
 	n2.Y(nots2);
-
+//Here, the comment is unnecessary, but we done...
 	a0.A(nots0);
 	a0.B(nots1);
 	a0.C(nots2);
