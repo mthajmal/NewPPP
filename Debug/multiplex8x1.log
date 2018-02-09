@@ -1,0 +1,4 @@
+﻿  main.cpp
+LINK : warning LNK4044: unrecognized option '/vmg'; ignored
+  multiplex8x1.vcxproj -> C:\Users\Mthajmal\documents\visual studio 2015\Projects\multiplex8x1\Debug\multiplex8x1.exe
+  multiplex8x1.vcxproj -> C:\Users\Mthajmal\documents\visual studio 2015\Projects\multiplex8x1\Debug\multiplex8x1.pdb (Full PDB)
