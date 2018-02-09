@@ -8,7 +8,7 @@ int sc_main(int argc, char* argv[])
 	sc_signal<bool> s0sig, s1sig, s2sig, enable, out;
 	sc_signal<bool> i0sig, i1sig, i2sig, i3sig, i4sig, i5sig, i6sig, i7sig;
 	sc_clock TestClk("Testclk", 100, SC_MS);
-	
+	//Random comment here is really important!!!
 	sc_trace_file *TF;
 	TF = sc_create_vcd_trace_file("TRACE");
 	sc_trace(TF, s0sig, "S0");
